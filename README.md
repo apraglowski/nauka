@@ -1,1 +1,2 @@
 # nauka
+pierwsza zmiana
